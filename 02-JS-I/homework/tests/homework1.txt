@@ -1,0 +1,9 @@
+
+ * Variables es la manera con la que definimos guardar un valor para utilizar más tarde y ese valor puede ir variando segun lo definamos y puede ser utilizada para realizar funciones.
+
+ * Strings es un tipo de datos de texto
+
+ * Funciones (argumentos, `return`) son objetos que nos permiten operar con las variables y datos, pueden ser invocados, o sea que puedo remitirme a ellas cada vez que lo necesite. Return nos permite que la funcion nos devueelva un resultado.
+ * Declaraciones `if` Es una función condicional que nos permite definir distintos caminos segun el resultado de una operación o ingreso de datos
+
+ * Valores booleanos (`true`, `false`), son tipos de valores qeu solo tienen dos posibles resultados true o false
