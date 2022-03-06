@@ -1,0 +1,20 @@
+Conceptos javascript
+
+1 - Objetos 
+	Son contenedores de datos  que estan definidos por una clave y un valor. Pueden contener mucha info de un objeto. Permite agrupar la información y dentro de sus claves pueden haber strings, datos, numericos, booleanos, funciones, etc.
+
+2- Propiedades
+	Cada una de las claves y sus contenidos
+
+
+3- Métodos
+	se denomina método a una función que está contenida dentro de un objeto
+
+
+4- bucle for... in
+
+	Es un bucle que nos permite recorrer un objeto dado que ya no contamos con los índices numéricos para las matrices.
+
+5 Notacion puntos y notación corchetes
+  Notacion de puntos nos permite "resumir" la notación tradicional de corchetes para llamar una propiedad. 
+la limitante resulta de la notación de puntos no deja tener acceso dinámico a las propiedades del objeto.

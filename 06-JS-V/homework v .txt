@@ -1,0 +1,7 @@
+# Homework: Javascript V
+
+
+1. En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+
+* `prototype` : Es una propiedad especial que contiene diferentes funciones a las que se puede llamar desde  objeto, que permite que los objetos hereden propiedades entre sí.
+* _Constructors_ (de Clases); es una función especial (método) que se ejecuta al hacer  un new para dicha clase
